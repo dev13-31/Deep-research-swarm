@@ -1,6 +1,6 @@
 # Deep Research Swarm
 
-An autonomous research skill for Google Antigravity and agentic coding workflows. It breaks complex scientific and technical inquiries into focused subtopics, coordinates parallel sub-agents to survey literature, and compiles a verified technical dossier exported directly to HTML, Word (`.docx`), and GitHub Pages.
+An autonomous research skill. It breaks complex scientific and technical inquiries into focused subtopics, coordinates parallel sub-agents to survey literature, and compiles a verified technical dossier exported directly to HTML, Word (`.docx`), and GitHub Pages.
 
 ---
 
